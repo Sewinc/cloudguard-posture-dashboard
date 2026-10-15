@@ -42,4 +42,12 @@ Targets should be defined after establishing a baseline.
 - Product rationale and prioritization.
 - Development action items.
 
+## Design Deliverables
+
+- **Figma Prototype:** https://www.figma.com/proto/71yoBgoENtDZPO99VMdwfX/Cloud-Posture-Dashboard_Product-Mgmt-Trainee-Problem-Statement?node-id=3065-5029&t=uaW0IGKXWyuOJuoD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3065%3A5029
+- **Figma Design File:** https://www.figma.com/design/71yoBgoENtDZPO99VMdwfX/Cloud-Posture-Dashboard_Product-Mgmt-Trainee-Problem-Statement?node-id=3109-412&t=Sv4xO7pYnrhZepCD-1
+- **Wireframe Exports:** See the [`wireframes/`](./wireframes/) directory.
+
+The prototype demonstrates the core flow from the security overview to findings and finding details, including the remediation confirmation step.
+
 **Note:** This repository presents a design concept. The dashboard is not a live cloud security monitoring system.
