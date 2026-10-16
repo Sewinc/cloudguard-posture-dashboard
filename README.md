@@ -47,6 +47,7 @@ Targets should be defined after establishing a baseline.
 - **Figma Prototype:** https://www.figma.com/proto/71yoBgoENtDZPO99VMdwfX/Cloud-Posture-Dashboard_Product-Mgmt-Trainee-Problem-Statement?node-id=3065-5029&t=uaW0IGKXWyuOJuoD-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3065%3A5029
 - **Figma Design File:** https://www.figma.com/design/71yoBgoENtDZPO99VMdwfX/Cloud-Posture-Dashboard_Product-Mgmt-Trainee-Problem-Statement?node-id=3109-412&t=Sv4xO7pYnrhZepCD-1
 - **Wireframe Exports:** See the [`wireframes/`](./wireframes/) directory.
+- **Assignment Walkthrough Video:** https://drive.google.com/file/d/1u9BJWE1us3kuLtyCmyLkc4YcoptRJTIJ/view?usp=sharing
 
 The prototype demonstrates the core flow from the security overview to findings and finding details, including the remediation confirmation step.
 
